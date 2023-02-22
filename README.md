@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc?username=niziuluizin&label=Profile%20Views&color=88C0D0&style=flat-square"></img>
-</p>
-
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
@@ -18,5 +14,5 @@
 </table>
 
 <p align="right">
-  <code>How can i be a competent programmer?</code>
+  <img src="https://komarev.com/ghpvc?username=niziuluizin&label=Profile%20Views&color=88C0D0&style=flat-square"></img>
 </p>
