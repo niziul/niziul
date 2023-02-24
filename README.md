@@ -12,7 +12,3 @@
     </td>
   </tr>
 </table>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc?username=niziuluizin&label=Profile%20Views&color=88C0D0&style=flat-square"></img>
-</p>
