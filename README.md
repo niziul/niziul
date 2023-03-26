@@ -2,7 +2,7 @@
   <tr>
     <td>
       </p>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niziulluizin&theme=nord_dark"></img>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiziulLuizin&show_icons=true&theme=nord&langs_count=10"></img>
       </p>
     </td>
     <td>
