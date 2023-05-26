@@ -2,7 +2,7 @@
   <tr>
     <td>
       </p>
-        <img src="https://github-readme-stats-niziulluizin.vercel.app/api/top-langs/?username=niziulluizin&hide_title=true&theme=nord"></img>        
+        <img src="https://github-readme-stats-wms1-niziulluizin.vercel.app/api/top-langs/?username=niziulluizin&hide_title=true&theme=nord"></img>        
       </p>
     </td>
     <td>
