@@ -16,5 +16,5 @@
 </br>
 
 <div align="center">
-    <img width="100%" src="https://github-readme-stats-wms1-niziulluizin.vercel.app/api/wakatime?username=niziul&langs_count=9&hide_title=true&layout=compact&theme=nord"></img>        
+    <img width="100%" src="https://github-readme-stats-wms1-niziulluizin.vercel.app/api/wakatime?username=niziul&langs_count=9&layout=compact&theme=nord"></img>        
 </div>
