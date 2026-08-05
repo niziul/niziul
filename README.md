@@ -7,7 +7,7 @@
     </td>
     <td>
       <p align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niziul&theme=nord_dark"></img>
+        <img src="https://github-stats-extended.vercel.app/api?username=niziul&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=nord"></img>
       </p>
     </td>
   </tr>
